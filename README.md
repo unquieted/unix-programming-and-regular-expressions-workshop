@@ -142,7 +142,7 @@ If any of the answers to these questions are yes:
 #### Software Tools Summary
 
 * Using the `software tools` approach helps provide a framework and a mindset for programming and scripting
-* You can combine software tools to solve software programs
+* You can combine software tools to solve software problems
   * This strategy in turn gives you flexibility and helps promote innovation
 * Know your tools and thinking in the `Software Tools` Philosophy will improve your scripting
 
@@ -154,7 +154,7 @@ If any of the answers to these questions are yes:
 
 Typically a high level language is used that compiles to executable machine code files
 
-* Executable scripts typicall start with a `Shebang` => `#! /bin/bash` or the like
+* Executable scripts typically start with a `Shebang` => `#! /bin/bash` or the like
   * An optional argument can be provided
   * Some Unix systems have small limits on the path name length
 
